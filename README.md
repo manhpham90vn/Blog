@@ -10,3 +10,5 @@
 [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture)
 
 [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+[awesome-objective-c](https://github.com/uhub/awesome-objective-c)
